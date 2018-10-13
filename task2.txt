@@ -7,3 +7,5 @@ Hello World!
 Making changes as branch A
 
 Making changes as branch B
+
+making changes in A but will commit to B
